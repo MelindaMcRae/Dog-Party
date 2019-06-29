@@ -12,4 +12,9 @@ I focused on HTML and CSS in this project. My approach to making this successful
 
 *Below is the comp page that I recreated:*
 
-<img src="desktop/my-dog-party.jpg" alt="My Dog Party re-creation">
+<img width="1440" alt="Screen Shot 2019-06-29 at 11 47 26 AM" src="https://user-images.githubusercontent.com/49771846/60387665-07e91b00-9a96-11e9-9bf3-7314573c94ef.png">
+
+<img width="1440" alt="Screen Shot 2019-06-29 at 11 37 22 AM" src="https://user-images.githubusercontent.com/49771846/60387618-6792f680-9a95-11e9-9c3d-095008c8abe4.png">
+
+<img width="1435" alt="Screen Shot 2019-06-29 at 11 37 39 AM" src="https://user-images.githubusercontent.com/49771846/60387620-6e216e00-9a95-11e9-9b07-3fc867d2bc79.png">
+
