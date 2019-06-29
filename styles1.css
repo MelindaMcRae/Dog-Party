@@ -1,0 +1,170 @@
+
+
+* {
+  font-family: 'Open Sans', sans-serif;
+}
+
+body {
+  border: 3px solid #000;
+  margin: 0;
+  padding: 0;
+}
+
+.navBar {
+  background-color: #75e2e6;
+  border-bottom: 4px solid #048eaa;
+  height: 75px;
+  margin-right: 0;
+  margin: 0 auto;
+  width: 100%;
+}
+
+.dog-icon {
+  width: 8%;
+  height: 60px;
+  margin-top: 10px;
+}
+
+ul {
+  margin: 0px, 0px, 0px, 0px;
+  float: right;
+  }
+
+.li {
+  text-decoration: none;
+  display: inline-block;
+  font-size: 23px;
+  margin: 0px 18px;
+  font-weight: 400;
+}
+
+a {
+  color: #000;
+  text-decoration: none;
+}
+
+.title-content {
+  text-align: center;
+  height: 550px;
+  background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)) , url("images/park.jpg") no-repeat; 
+  background-position: center bottom;
+  background-size: cover;
+  padding-top: 15px; 
+}
+
+section {
+  padding: 0 32px 65px 0;
+}
+
+h1 {
+  margin-top: 15px;
+}
+
+.a-site {
+  color: #fff;
+  font-weight: normal;
+  font-size: 40px;
+  padding-top:10px;
+}
+
+.dog1 {
+  height: 230px;
+  border-radius: 50% 50% 50% 50%;
+  border: 5px solid #048eaa;
+  margin-bottom: 20px;
+}
+
+label {
+  color: #fff;
+  margin-right: 535px;
+}
+
+input {
+  display: block;
+  width: 40%;
+  height: 60px;
+  margin: 20px auto auto auto;
+  border-radius: 3px;
+}
+
+button {
+  background-color: #75e2e6;
+  height: 60px;
+  width: 40%;
+  margin-top: 30px;
+  font-size: 20px;
+  border-radius: 3px;
+}
+
+article {
+  display: inline-block;
+  width: 28%;
+  vertical-align: top;
+  text-align: center;
+  padding: 25px 36px 0 36px;
+}
+
+.dog2,
+.dog3,
+.dog4 {
+  height: 230px;
+  width: 55%;
+  border-radius: 50% 50% 50% 50%;
+  border: 5px solid #048eaa;
+  margin-bottom: 20px;
+}
+
+.article1 {
+  padding-left: 5px;
+}
+
+h2 {
+  font-size: 30px;
+}
+
+.tungg,
+.long-doggo,
+.angery {
+  text-align: left;
+  margin: 0 15px 0 45px;
+  width: 83%;
+  height: 300px;
+  font-size: 20px;
+}
+
+.how,
+.what,
+.facts {
+  background-color: #048eaa;
+  margin-top: 60px;
+  font-size: 20px;
+  color: #fff;
+  width: 98%;
+  margin-left: 46px;
+}
+
+footer {
+  background-color: #048eaa;
+  height: 230px;
+}
+
+.learn {
+  text-align: center;
+  color: #fff;
+  font-size: 23px;
+  padding: 60px 0 0 0;
+}
+
+div {
+  margin-left: 550px;
+  padding-top: 0px
+}
+
+.twitter,
+.insta,
+.facebook,
+.linkedin {
+  height: 60px;
+  padding-right: 20px;
+  margin-top: 20px;
+}
