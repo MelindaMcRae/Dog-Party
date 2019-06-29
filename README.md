@@ -4,7 +4,7 @@ Dog Party is a project designed for those new to front end coding to learn HTML 
 
 *Below is the comp page provided that I had to recreate:*
 
-<img src="desktop/dog-party-og-comp.jpg" alt="Original Dog Party Comp">
+![Original Dog Party Comp](https://user-images.githubusercontent.com/49771846/60387232-93ab7900-9a8f-11e9-97b8-859d112db689.jpg)
 
 # The Process
 
