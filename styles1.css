@@ -20,22 +20,22 @@ body {
 }
 
 .dog-icon {
-  width: 8%;
   height: 60px;
   margin-top: 10px;
+  width: 8%;
 }
 
 ul {
-  margin: 0px, 0px, 0px, 0px;
   float: right;
+  margin: 0px, 0px, 0px, 0px;
   }
 
 .li {
-  text-decoration: none;
   display: inline-block;
   font-size: 23px;
-  margin: 0px 18px;
   font-weight: 400;
+  margin: 0px 18px;
+  text-decoration: none;
 }
 
 a {
@@ -44,12 +44,12 @@ a {
 }
 
 .title-content {
-  text-align: center;
-  height: 550px;
-  background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)) , url("images/park.jpg") no-repeat; 
+  background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)) , url("images/park.jpg") no-repeat;
   background-position: center bottom;
   background-size: cover;
+  height: 550px;
   padding-top: 15px; 
+  text-align: center;
 }
 
 section {
@@ -62,15 +62,15 @@ h1 {
 
 .a-site {
   color: #fff;
-  font-weight: normal;
   font-size: 40px;
+  font-weight: normal;
   padding-top:10px;
 }
 
 .dog1 {
-  height: 230px;
   border-radius: 50% 50% 50% 50%;
   border: 5px solid #048eaa;
+  height: 230px;
   margin-bottom: 20px;
 }
 
@@ -80,28 +80,28 @@ label {
 }
 
 input {
+  border-radius: 3px;
   display: block;
-  width: 40%;
   height: 60px;
   margin: 20px auto auto auto;
-  border-radius: 3px;
+  width: 40%;
 }
 
 button {
   background-color: #75e2e6;
-  height: 60px;
-  width: 40%;
-  margin-top: 30px;
-  font-size: 20px;
   border-radius: 3px;
+  font-size: 20px;
+  height: 60px;
+  margin-top: 30px;
+  width: 40%;
 }
 
 article {
   display: inline-block;
-  width: 28%;
-  vertical-align: top;
-  text-align: center;
   padding: 25px 36px 0 36px;
+  text-align: center;
+  vertical-align: top;
+  width: 28%;
 }
 
 .how-to,
@@ -113,11 +113,11 @@ article {
 .dog2,
 .dog3,
 .dog4 {
-  height: 230px;
-  width: 55%;
   border-radius: 50% 50% 50% 50%;
   border: 5px solid #048eaa;
+  height: 230px;
   margin-bottom: 20px;
+  width: 55%;
 }
 
 .article1 {
@@ -131,22 +131,22 @@ h2 {
 .tungg,
 .long-doggo,
 .angery {
-  text-align: left;
-  margin: 0 15px 0 45px;
-  width: 83%;
-  height: 310px;
   font-size: 20px;
+  height: 310px;
+  margin: 0 15px 0 45px;
+  text-align: left;
+  width: 83%;
 }
 
 .how,
 .what,
 .facts {
   background-color: #048eaa;
-  margin-top: 20px;
-  font-size: 20px;
   color: #fff;
-  width: 98%;
+  font-size: 20px;
   margin-left: 46px;
+  margin-top: 20px;
+  width: 98%;
 }
 
 footer {
@@ -155,10 +155,10 @@ footer {
 }
 
 .learn {
-  text-align: center;
   color: #fff;
   font-size: 23px;
   padding: 60px 0 0 0;
+  text-align: center;
 }
 
 div {
@@ -171,6 +171,6 @@ div {
 .facebook,
 .linkedin {
   height: 60px;
-  padding-right: 20px;
   margin-top: 20px;
+  padding-right: 20px;
 }
